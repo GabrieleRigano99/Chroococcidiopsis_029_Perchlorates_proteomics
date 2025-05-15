@@ -1,0 +1,27 @@
+##gff-version 3
+contig1 Antismash8dev	198992	219759	Terpene
+contig1	SanntiSv0.9.3.3	CLUSTER	620557	715716	.	.	.	ID=contig1_sanntis_1;nearest_MiBIG=BGC0000795;nearest_MiBIG_class=Saccharide;nearest_MiBIG_diceDistance=0.581;score=0.630;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	865958	879512	.	.	.	ID=contig1_sanntis_2;nearest_MiBIG=BGC0000868;nearest_MiBIG_class=Other;nearest_MiBIG_diceDistance=0.444;score=0.650;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	902490	910337	.	.	.	ID=contig1_sanntis_3;nearest_MiBIG=BGC0000939;nearest_MiBIG_class=Other;nearest_MiBIG_diceDistance=0.561;score=0.520;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	1309445	1355827	.	.	.	ID=contig1_sanntis_4;nearest_MiBIG=BGC0001054;nearest_MiBIG_class=NRP Polyketide;nearest_MiBIG_diceDistance=0.371;score=0.980;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	1450200	1476101	.	.	.	ID=contig1_sanntis_5;nearest_MiBIG=BGC0000814;nearest_MiBIG_class=Alkaloid;nearest_MiBIG_diceDistance=0.758;score=0.470;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	1547006	1563954	.	.	.	ID=contig1_sanntis_6;nearest_MiBIG=BGC0000426;nearest_MiBIG_class=NRP;nearest_MiBIG_diceDistance=0.544;score=0.650;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	2204723	2220342	.	.	.	ID=contig1_sanntis_7;nearest_MiBIG=BGC0001130;nearest_MiBIG_class=NRP Polyketide;nearest_MiBIG_diceDistance=0.580;score=0.630;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	2418149	2449018	.	.	.	ID=contig1_sanntis_8;nearest_MiBIG=BGC0000861;nearest_MiBIG_class=Other;nearest_MiBIG_diceDistance=0.474;score=0.930;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	2556641	2563613	.	.	.	ID=contig1_sanntis_9;nearest_MiBIG=BGC0000660;nearest_MiBIG_class=Terpene;nearest_MiBIG_diceDistance=0.500;score=0.860;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	2662559	2682585	.	.	.	ID=contig1_sanntis_10;nearest_MiBIG=BGC0000389;nearest_MiBIG_class=NRP;nearest_MiBIG_diceDistance=0.489;score=0.820;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	3325904	3330111	.	.	.	ID=contig1_sanntis_11;nearest_MiBIG=BGC0000248;nearest_MiBIG_class=Polyketide;nearest_MiBIG_diceDistance=0.565;score=0.470;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	3453312	3466012	.	.	.	ID=contig1_sanntis_12;nearest_MiBIG=BGC0000677;nearest_MiBIG_class=Terpene;nearest_MiBIG_diceDistance=0.562;score=0.920;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	3631569	3659075	.	.	.	ID=contig1_sanntis_13;nearest_MiBIG=BGC0000868;nearest_MiBIG_class=Other;nearest_MiBIG_diceDistance=0.607;score=0.570;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	3758525	3780764	.	.	.	ID=contig1_sanntis_14;nearest_MiBIG=BGC0000803;nearest_MiBIG_class=Saccharide;nearest_MiBIG_diceDistance=0.508;score=0.610;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	4054818	4062499	.	.	.	ID=contig1_sanntis_15;nearest_MiBIG=BGC0000773;nearest_MiBIG_class=Saccharide;nearest_MiBIG_diceDistance=0.569;score=0.430;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	4469621	4490180	.	.	.	ID=contig1_sanntis_16;nearest_MiBIG=BGC0002005;nearest_MiBIG_class=RiPP;nearest_MiBIG_diceDistance=0.333;score=0.750;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	4997848	5014569	.	.	.	ID=contig1_sanntis_17;nearest_MiBIG=BGC0000662;nearest_MiBIG_class=Terpene;nearest_MiBIG_diceDistance=0.676;score=0.400;partial=00
+contig1	SanntiSv0.9.3.3	CLUSTER	5509767	5535779	.	.	.	ID=contig1_sanntis_18;nearest_MiBIG=BGC0000790;nearest_MiBIG_class=Saccharide;nearest_MiBIG_diceDistance=0.586;score=0.560;partial=00
+contig1	Antismash8dev CLUSTER	2826107	2847033 .	.	.	Terpene-precursor
+contig1	Antismash8dev CLUSTER	3492146 3513075	.	.	.	Terpene-precursor
+contig1	GECCO v0.9.8	BGC	1304540	1355636	0.9781230660049823	.	.	ID=contig1_cluster_1;Name=NRP/Polyketide cluster;Type=NRP,Polyketide;ProbabilityAverage=0.9781230660049823;ProbabilityMax=0.9999999587487116;TypeAlkaloid=0.0;TypeNRP=0.95;TypePolyketide=0.52;TypeRipp=0.0;TypeSaccharide=0.010000000000000009;TypeTerpene=0.0;Genes=20;Domains=59
+contig1	GECCO v0.9.8	BGC	2209416	2217229	0.8095432559922158	.	.	ID=contig1_cluster_3;Name=Unknown cluster;Type=Unknown;ProbabilityAverage=0.8095432559922158;ProbabilityMax=0.8146392240651487;TypeAlkaloid=0.06000000000000005;TypeNRP=0.41000000000000003;TypePolyketide=0.31999999999999995;TypeRipp=0.020000000000000018;TypeSaccharide=0.020000000000000018;TypeTerpene=0.12;Genes=5;Domains=8
+contig1	GECCO v0.9.8	BGC	2419131	2458130	0.9594296904665433	.	.	ID=contig1_cluster_4;Name=Polyketide cluster;Type=Polyketide;ProbabilityAverage=0.9594296904665433;ProbabilityMax=0.9999997990086716;TypeAlkaloid=0.0;TypeNRP=0.25;TypePolyketide=0.73;TypeRipp=0.020000000000000018;TypeSaccharide=0.16000000000000003;TypeTerpene=0.0;Genes=26;Domains=45
+contig1	GECCO v0.9.8	BGC	2663638	2682045	0.9836647615250244	.	.	ID=contig1_cluster_5;Name=NRP cluster;Type=NRP;ProbabilityAverage=0.9836647615250244;ProbabilityMax=0.9992805522759572;TypeAlkaloid=0.0;TypeNRP=0.95;TypePolyketide=0.050000000000000044;TypeRipp=0.010000000000000009;TypeSaccharide=0.020000000000000018;TypeTerpene=0.030000000000000027;Genes=10;Domains=17
+contig1	GECCO v0.9.8	BGC	3633673	3654063	0.8440592718726456	.	.	ID=contig1_cluster_6;Name=Saccharide cluster;Type=Saccharide;ProbabilityAverage=0.8440592718726456;ProbabilityMax=0.874161889871745;TypeAlkaloid=0.010000000000000009;TypeNRP=0.030000000000000027;TypePolyketide=0.06000000000000005;TypeRipp=0.010000000000000009;TypeSaccharide=0.8200000000000001;TypeTerpene=0.050000000000000044;Genes=18;Domains=25
